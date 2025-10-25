@@ -22,4 +22,5 @@ Enter your name: Alice
 Hello Alice! Welcome to the program.
 What is your favorite color? Blue
 Blue is awesome!
-
+```
+[Download Lesson 1 Presentation](https://github.com/user-attachments/files/23137432/Presentation.4.pdf)
