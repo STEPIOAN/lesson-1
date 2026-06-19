@@ -23,7 +23,5 @@ Hello Alice! Welcome to the program.
 What is your favorite color? Blue
 Blue is awesome!
 ```
-<iframe src="https://stepioan.github.io/lesson-1/Presentation.4.pdf" 
-  width="100%" height="480">
-</iframe>
+
 [Download Lesson 1 Presentation](https://github.com/user-attachments/files/23137432/Presentation.4.pdf)
